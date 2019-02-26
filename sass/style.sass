@@ -71,11 +71,13 @@
 .header__drop-down-details
   position: absolute
   display: none
+  z-index: 100
   border: $site-border
   border-radius: 5px
   background-color: #ffffff
   padding: 20px
   min-width: 260px
+
 
 .header__drop-down-triangle
   width: 7px
@@ -205,7 +207,7 @@
   line-height: 19px
 
 .header__my-account-btn
-  width: 130px
+  padding: 0 20px
   height: 38px
   background-color: $brand-color
   color: #ffffff
@@ -367,8 +369,8 @@
   font-weight: 600
   margin-bottom: -7px
 
-.main-banner__text-small-brand-color
-  color: #f16d7f
+.banner__text-small-brand-color
+  color: $brand-color
 
 /*additional-banners*/
 .additional-banners
@@ -405,7 +407,7 @@
   background-color: white
   padding: 15px 20px
   top: 25px
-  left: 0px
+  left: 0
 
 .additional-banners__black-text
   color: #222222
@@ -455,6 +457,7 @@
   height: 360px
   margin-bottom: 40px
   position: relative
+  padding-bottom: 20px
 
 .products__product-link
   display: block
