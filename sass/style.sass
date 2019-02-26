@@ -242,8 +242,9 @@
   height: 100%
 
 .navigation__menu-element
-  margin-right: 37px
+  padding: 0 25px
   position: relative
+  border-bottom: 3px solid transparent
 
 .navigation__menu-link
   position: relative
@@ -259,6 +260,10 @@
 .navigation__menu-link:hover
   color: $brand-color
   transition: $link-hover-transition
+
+.navigation__menu-element:hover
+  border-color: $brand-color
+
 
 .navigation__menu-element:hover .navigation__mega-menu
   display: flex

@@ -234,8 +234,9 @@
   height: 100%; }
 
 .navigation__menu-element {
-  margin-right: 37px;
-  position: relative; }
+  padding: 0 25px;
+  position: relative;
+  border-bottom: 3px solid transparent; }
 
 .navigation__menu-link {
   position: relative;
@@ -251,6 +252,9 @@
 .navigation__menu-link:hover {
   color: #f16d7f;
   transition: color 0.3s; }
+
+.navigation__menu-element:hover {
+  border-color: #f16d7f; }
 
 .navigation__menu-element:hover .navigation__mega-menu {
   display: flex; }
