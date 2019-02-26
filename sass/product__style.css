@@ -3,8 +3,7 @@
   padding: 0;
   font-family: "Lato", sans-serif;
   outline: none;
-  border: none;
-  line-height: 0; }
+  border: none; }
 
 .container {
   margin: 0 auto;
@@ -29,11 +28,9 @@
 .search {
   display: flex;
   border: 0.063rem solid #ececec;
-  border-radius: 0.188rem;
-  height: 38px; }
+  border-radius: 0.188rem; }
   .search__summary {
-    padding: 0 15px;
-    height: 100%;
+    padding: 15px;
     color: #222222;
     font-size: 0.875rem;
     font-weight: 300;
@@ -44,8 +41,58 @@
       display: none; }
     .search__summary::-moz-list-bullet {
       list-style-type: none; }
-    .search__summary__details {
-      position: relative; }
+
+.search__details {
+  position: relative;
+  background-color: #cdcdcc;
+  background-image: linear-gradient(to bottom, #f9f9f9 0%, #f5f5f5 100%); }
+
+.search__details-drop-down {
+  padding: 15px;
+  position: absolute;
+  border: 0.063rem solid #ececec;
+  border-radius: 0.313rem; }
+
+.search__details-drop-down-triangle {
+  width: 7px;
+  height: 7px;
+  position: absolute;
+  border-right: 0.063rem solid #ececec;
+  border-top: 0.063rem solid #ececec;
+  background-color: white;
+  transform: rotate(-45deg);
+  top: -5px;
+  left: 68px; }
+
+.search__details-drop-down-list {
+  list-style: none; }
+
+.search__details-drop-down-list:not(:last-child) {
+  margin-bottom: 30px; }
+
+.search__details-drop-down-list-el_heading {
+  text-transform: uppercase;
+  color: #232323;
+  font-size: 0.875rem;
+  font-weight: 400;
+  border-bottom: 0.063rem solid #ececec;
+  line-height: 2rem; }
+
+.search__details-drop-down-list-el {
+  width: 235px; }
+
+.search__details-drop-down-list-el:not(:last-child) {
+  margin-bottom: 10px; }
+
+.search__details-drop-down-link {
+  text-decoration: none;
+  color: #4f4f4f;
+  font-size: 0.875rem;
+  font-weight: 400; }
+
+.search__details-drop-down-link:hover {
+  color: #f16d7f;
+  transition: color 0.3s; }
 
 .search__summary-arrow {
   line-height: 0;
@@ -59,7 +106,11 @@
 .search__input {
   min-width: 280px;
   height: 100%;
-  border-right: 0.063rem solid #ececec; }
+  border-right: 0.063rem solid #ececec;
+  padding: 0 15px;
+  color: #a4a4a4;
+  font-size: 0.875rem;
+  font-weight: 300; }
 
 .search__btn {
   padding: 0 10px;
