@@ -58,6 +58,8 @@
   position: absolute
   border: $site-border
   border-radius: 0.313rem
+  background-color: #fff
+  z-index: 100
 
 
 .search__details-drop-down-triangle
@@ -131,8 +133,81 @@
   font-size: 0.875rem
   font-weight: 400
 
+/*cart*/
+
+.cart__container
+  position: relative
+
+.cart__container:hover .cart
+  display: block
+
+.cart
+  display: none
+  position: absolute
+  background-color: white
+  border: $site-border
+  padding: 20px
+  border-radius: 5px
+  top: 50px
+
+.cart__triangle
+  width: 7px
+  height: 7px
+  position: absolute
+  border-right: $site-border
+  border-top: $site-border
+  background-color: white
+  transform: rotate(-45deg)
+  top: -5px
+  left: 14px
+
+.cart__total
+  display: flex
+  justify-content: space-between
+  color: #222222
+  font-size: 16px
+  font-weight: 700
+  text-transform: uppercase
+  margin-bottom: 30px
+
+
+.cart__button
+  width: 225px
+  height: 50px
+  border: $site-border
+  color: #4a4a4a
+  font-size: 14px
+  font-weight: 700
+  text-transform: uppercase
+
+.cart__button:first-child
+  margin-bottom: 10px
+
+.cart__button:hover
+  color: $brand-color
+  border: 1px solid $brand-color
+  transition: all 0.3s
+
+
+.cart__product-counter
+  position: absolute
+  border-radius: 50%
+  background-color: $brand-color
+  width: 19px
+  height: 19px
+  color: #ffffff
+  font-size: 12px
+  font-weight: 700
+  text-align: center
+  top: -7px
+  right: -9px
+  line-height: 19px
 
 /*header*/
+
+.header
+  border-bottom: 0.063rem solid #ececec
+
 .header_container
   display: flex
   justify-content: space-between
@@ -144,5 +219,30 @@
 
 .search_header
   margin-left: 37px
+
+.header__right
+  display: flex
+  align-items: center
+
+.header__my-account-btn
+  padding: 0 20px
+  height: 38px
+  background-color: $brand-color
+  color: #ffffff
+  font-size: 15px
+  font-weight: 400
+  margin-left: 26px
+
+.header__my-account-btn:hover
+  background-color: #fff
+  border: 1px solid $brand-color
+  color: $brand-color
+  transition: all 0.3s
+
+.header__sort-down_my-account
+  font-size: 15px
+  font-weight: 400
+  margin-left: 8px
+
 
 
