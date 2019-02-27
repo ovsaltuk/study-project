@@ -1,0 +1,101 @@
+.nav_container
+  height: 50px
+  display: flex
+  justify-content: center
+
+.nav__list
+  display: flex
+  justify-content: center
+  align-items: center
+  list-style: none
+
+.nav__list-el
+  position: relative
+
+.nav__link
+  text-decoration: none
+  color: #222222
+  font-size: 0.875rem
+  font-weight: 700
+  text-transform: uppercase
+  padding: 20px 25px 17px 25px
+  border-bottom: 3px solid transparent
+
+.nav__link:hover
+  border-color: $brand-color
+  color: $brand-color
+  transition: $link-hover-transition
+
+.nav__list-el:hover .nav__mega-menu
+  display: flex
+
+
+/*mega menu*/
+
+.nav__mega-menu
+  display: none
+  position: absolute
+  top: 30px
+  left: 40px
+  max-height: 310px
+  border: $site-border
+  border-radius: 5px
+  background: white
+  padding: 20px
+  z-index: 100
+
+
+.nav__mega-menu-triangle
+  width: 7px
+  height: 7px
+  position: absolute
+  border-right: $site-border
+  border-top: $site-border
+  background-color: white
+  transform: rotate(-45deg)
+  top: -5px
+  left: 14px
+
+.nav_mega-menu-block
+  display: flex
+  flex-direction: column
+  justify-content: space-between
+
+.nav__mega-menu-headline
+  font-size: 14px
+  font-weight: 400
+  line-height: 32px
+  text-transform: uppercase
+  border-bottom: $site-border
+
+.nav__mega-menu-list
+  list-style: none
+  margin-right: 45px
+
+.nav__mega-menu-list-elem
+  width: 235px
+
+.nav__mega-menu-link
+  text-decoration: none
+  color: #646464
+  font-size: 14px
+  font-weight: 400
+  line-height: 28px
+
+.nav__mega-menu-link:hover
+  color: $brand-color
+  transition: $link-hover-transition
+
+.nav_mega-menu-img-block
+  position: relative
+
+.nav_mega-menu-img-block-text
+  position: absolute
+  right: 30px
+  bottom: 10px
+  color: #ffffff
+  font-size: 22px
+  font-weight: 400
+  line-height: 28px
+  text-transform: uppercase
+
