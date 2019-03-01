@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0490fc65-6cf2-4a07-a1dc-89a7e6bfd62e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sass/_checkbox.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/product.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/product.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/.sass-cache/66065d523bf684deaf311dfd00302ac24e402b7e/_filters.sassc" beforeDir="false" afterPath="$PROJECT_DIR$/sass/.sass-cache/66065d523bf684deaf311dfd00302ac24e402b7e/_filters.sassc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/.sass-cache/66065d523bf684deaf311dfd00302ac24e402b7e/product__style.sassc" beforeDir="false" afterPath="$PROJECT_DIR$/sass/.sass-cache/66065d523bf684deaf311dfd00302ac24e402b7e/product__style.sassc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/_filters.sass" beforeDir="false" afterPath="$PROJECT_DIR$/sass/_filters.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkbox" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/.sass-cache/66065d523bf684deaf311dfd00302ac24e402b7e/_checkbox.sassc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/_checkbox.sass" beforeDir="false" afterPath="$PROJECT_DIR$/sass/_checkbox.sass" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sass/product__style.css" beforeDir="false" afterPath="$PROJECT_DIR$/sass/product__style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/product__style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/sass/product__style.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/product__style.sass" beforeDir="false" afterPath="$PROJECT_DIR$/sass/product__style.sass" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,8 +50,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/html/product.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="825">
-                  <caret line="785" lean-forward="true" selection-start-line="785" selection-end-line="785" />
+                <state relative-caret-position="735">
+                  <caret line="774" column="45" lean-forward="true" selection-start-line="774" selection-start-column="45" selection-end-line="774" selection-end-column="45" />
                   <folding>
                     <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
                     <element signature="n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
@@ -72,7 +67,6 @@
                     <element signature="n#label#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
                     <element signature="n#label#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
                     <element signature="n#label#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#label#4;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
                     <element signature="n#label#5;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
                     <element signature="n#h3#0;n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
                   </folding>
@@ -88,11 +82,20 @@
             <splitter split-orientation="vertical" split-proportion="0.5">
               <split-first>
                 <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-                  <file pinned="false" current-in-tab="true">
+                  <file pinned="false" current-in-tab="false">
                     <entry file="file://$PROJECT_DIR$/sass/product__style.sass">
                       <provider selected="true" editor-type-id="text-editor">
-                        <state relative-caret-position="418">
-                          <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
+                        <state relative-caret-position="268">
+                          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+                        </state>
+                      </provider>
+                    </entry>
+                  </file>
+                  <file pinned="false" current-in-tab="true">
+                    <entry file="file://$PROJECT_DIR$/sass/_checkbox.sass">
+                      <provider selected="true" editor-type-id="text-editor">
+                        <state relative-caret-position="230">
+                          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
                         </state>
                       </provider>
                     </entry>
@@ -176,10 +179,10 @@
         <option value="$PROJECT_DIR$/sass/product__style.css" />
         <option value="$PROJECT_DIR$/sass/_nav.sass" />
         <option value="$PROJECT_DIR$/sass/_sidebar.sass" />
-        <option value="$PROJECT_DIR$/sass/_checkbox.sass" />
         <option value="$PROJECT_DIR$/sass/_filters.sass" />
         <option value="$PROJECT_DIR$/sass/product__style.sass" />
         <option value="$PROJECT_DIR$/html/product.html" />
+        <option value="$PROJECT_DIR$/sass/_checkbox.sass" />
       </list>
     </option>
   </component>
@@ -247,12 +250,12 @@
       <workItem from="1549821677587" duration="752000" />
       <workItem from="1550908874569" duration="868000" />
       <workItem from="1550925453654" duration="5279000" />
-      <workItem from="1551009640838" duration="27747000" />
+      <workItem from="1551009640838" duration="27994000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34646000" />
+    <option name="totallyTimeSpent" value="34893000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
@@ -263,7 +266,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.329927" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329927" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -450,13 +453,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sass/_checkbox.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sass/_filters.sass">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -466,8 +462,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/html/product.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="785" lean-forward="true" selection-start-line="785" selection-end-line="785" />
+        <state relative-caret-position="735">
+          <caret line="774" column="45" lean-forward="true" selection-start-line="774" selection-start-column="45" selection-end-line="774" selection-end-column="45" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
@@ -483,17 +479,26 @@
             <element signature="n#label#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#label#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#label#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#label#4;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#label#5;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#h3#0;n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/sass/product__style.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
+        <state relative-caret-position="268">
+          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/_checkbox.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
         </state>
       </provider>
     </entry>
