@@ -353,6 +353,7 @@
 .sidebar__details-spoiler {
   display: flex;
   justify-content: space-between;
+  position: relative;
   border-bottom: 0.063rem solid #ececec;
   height: 40px;
   align-items: center;
@@ -369,9 +370,11 @@
     height: 100%;
     width: 5px;
     background-color: #f16d7f;
-    margin-right: 10px;
-    position: relative;
+    position: absolute;
     z-index: 100; }
+
+.sidebar__details-spoiler-heading {
+  padding-left: 10px; }
 
 .sidebar__summary-arrow {
   color: #838383;
