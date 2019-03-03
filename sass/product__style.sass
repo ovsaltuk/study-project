@@ -10,6 +10,10 @@
 @import "checkbox"
 @import "sort"
 @import "Card-Product"
+@import "feature-box"
+@import "review&subscribe"
+@import "grid"
+@import "footer"
 
 *
   margin: 0
@@ -84,6 +88,47 @@
 .card-product_product-page
   margin-bottom: 40px
 
+.product__paginator-conteiner
+  display: flex
+  justify-content: space-between
+
+.paginator
+  border-radius: 0.188rem
+  border: 0.063rem solid #ebebeb
+  background-color: #ffffff
+  width: 260px
+  color: #c4c4c4
+
+.paginator_button
+  border-radius: 0.188rem
+  border: 0.063rem solid $brand-color
+  background-color: #ffffff
+  color: $brand-color
+  font-size: 1rem
+  padding: 0 45px
+  display: flex
+  align-items: center
+  &:hover
+    background-color: $brand-color
+    color: #ffffff
 
 
+/*feature box*/
 
+.container_feature-box
+  display: flex
+  justify-content: space-between
+  padding: 90px 0 114px 0
+
+
+.feature-box_product_page
+  margin-top: 110px
+
+.product-page_review-and-subscribe
+  margin-bottom: 110px
+
+.grid_logo
+  margin-bottom: 30px
+
+.product-page_footer
+  margin-top: 90px

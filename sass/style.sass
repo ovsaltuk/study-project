@@ -1,5 +1,8 @@
 @import "vars"
 @import "Card-Product"
+@import "review&subscribe"
+@import "grid"
+@import "footer"
 
 *
   margin: 0
@@ -614,222 +617,17 @@
 
 /*review-and-subscribe*/
 
-.review-and-subscribe
-  height: 440px
-  background-image: url("img/subscribe-background.png")
-  background-position: center
-  background-repeat: no-repeat
 
-
-.main_review-and-subscribe
-  margin-bottom: 100px
-
-
-.review-and-subscribe__wrap
-  width: $site-width
-  height: 100%
-  margin: 0 auto
-  display: flex
-
-.review
-  display: flex
-  margin-top: 10%
-  padding-right: 71px
-  &__photo
-    float: left
-    margin-right: 38px
-    max-width: 82px
-    max-height: 82px
-  &__text
-    max-width: 386px
-    color: #222224
-    font-size: 16px
-    font-style: italic
-    line-height: 26px
-    margin-top: 12px
-    bottom: 19px
-
-.review__reviewer-info
-  display: flex
-  flex-direction: column
-  color: #f16d7f
-  font-size: 16px
-  font-weight: 700
-  letter-spacing: 0.4px
-  line-height: 26px
-  &-city
-    color: #222224
-    font-size: 12px
-    font-weight: 300
-    letter-spacing: 0.3px
-    line-height: 14px
-
-.subscribe
-  height: 100%
-  width: 50%
-
-.subscribe__wrap
-  border-left: 1px solid white
-  height: 100%
-  width: 100%
-  display: flex
-  flex-direction: column
-  align-items: center
-
-.subscribe__heading_big
-  margin-top: 25%
-  font-size: 24px
-  letter-spacing: 0.6px
-  line-height: 46px
-  text-transform: uppercase
-  font-weight: 400
-
-.subscribe__heading_small
-  color: #222224
-  font-size: 14px
-  font-weight: 400
-  letter-spacing: 0.35px
-  line-height: 24px
-
-.subscribe__form
-  width: 68%
-  height: 46px
-  display: flex
-  justify-content: center
-  margin-top: 32px
-  &-input
-    width: 70%
-    border-radius: 23px 0 0 23px
-    opacity: 0.67
-    color: #222224
-    font-size: 14px
-    font-weight: 400
-    line-height: 54px
-    padding-right: 28px
-    padding-left: 28px
-    background-color: #e1e1e1
-  &-btn
-    border-radius: 0 23px 23px 0
-    font-size: 14px
-    font-weight: 400
-    color: #ffffff
-    padding: 0 20px 0 20px
-    background-color: $brand-color
 
 /*grid*/
 
-.grid__wrapper
-  display: flex
-  justify-content: space-between
-  width: $site-width
-  margin: 0 auto
 
-.grid__col
-  width: 15%
-
-.grid__col_wide
-  width: 35%
-
-.grid__home-link
-  display: flex
-  align-items: center
-  text-decoration: none
-  text-transform: uppercase
-  color: #222222
-  font-size: 27px
-  font-weight: 300
-  line-height: 32px
-  margin-bottom: 29px
-  &_site-color
-    color: #f16d7f
-    font-weight: 400
-  &_img
-    margin-right: 13px
-
-.grid__col-text-paragraph
-  color: #898989
-  font-size: 14px
-  font-weight: 300
-  line-height: 24px
-
-.grid__col-text-paragraph:first-child
-  margin-bottom: 30px
-
-.grid__col-list-heading
-  color: $brand-color
-  font-size: 18px
-  font-weight: 700
-  line-height: 26px
-  text-transform: uppercase
-
-.grid__col-list
-  list-style: none
-
-.grid__col-list-link
-  text-decoration: none
-  color: #898989
-  font-size: 16px
-  font-weight: 400
-
-.grid__col-list-link:hover
-  color: $brand-color
-  transition: $link-hover-transition
-
-.grid__col-list-heading
-  margin-bottom: 45px
-
-.grid__col-list-el
-  line-height: 42px
 
 .main_grid
   margin-bottom: 90px
 
 /*footer*/
 
-.footer
-  height: 80px
-  background-color: #e6e6e6
-  &__wrapper
-    width: $site-width
-    height: 100%
-    margin: 0 auto
-    display: flex
-    justify-content: space-between
-    align-items: center
-
-.copyright__text
-  color: #7a7a7a
-  font-size: 16px
-  font-weight: 400
-
-.socials__wrap
-  display: flex
-
-
-.socials__social
-  font-size: 16px
-  font-weight: 400
-  &-link
-    background-color: #ffffff
-    margin-left: 8px
-    color: #b2b2b2
-    display: flex
-    justify-content: center
-    align-items: center
-    text-decoration: none
-    width: 32px
-    height: 32px
-    font-size: 16px
-    font-weight: 400
-
-.socials__social-link:hover
-  background-color: $brand-color
-  color: #ffffff
-  transition: all 0.3s
-
-/*.socials__social-link:visited
-  color: #b2b2b2
-  background-color: #EEEEEE */
 
 
 
