@@ -60,6 +60,8 @@
   display: flex;
   align-items: center;
   margin-bottom: 10px; }
+  .card-product__add-to-cart:hover {
+    box-shadow: 0px 0px 20px -1px white; }
 
 .card-product__white {
   margin-right: 10px; }
