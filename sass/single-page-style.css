@@ -201,7 +201,8 @@
 .nav_container {
   height: 50px;
   display: flex;
-  justify-content: center; }
+  justify-content: center;
+  border-bottom: 3px solid transparent; }
 
 .nav__list {
   display: flex;
@@ -750,10 +751,6 @@
   background-color: #ffffff;
   -webkit-appearance: none;
   -moz-appearance: none;
-  -o-appearance: none;
-  appearance: none;
-  -webkit-outer-spin-button: none;
-  -webkit-inner-spin-button: none;
   border-radius: 0; }
 
 .product-description__filter-input_size {

@@ -1,0 +1,104 @@
+@import "vars"
+@import "logo"
+@import "search"
+@import "cart"
+@import "button"
+@import "nav"
+@import "breadcrumbs"
+@import "feature-box"
+@import "review&subscribe"
+@import "grid"
+@import "footer"
+
+*
+  margin: 0
+  padding: 0
+  font-family: 'Lato', sans-serif
+  outline: none
+  border: none
+
+
+.container
+  margin: 0 auto
+  width: $site-width
+
+/*header*/
+
+.header
+  border-bottom: 0.063rem solid #ececec
+
+.header_container
+  display: flex
+  justify-content: space-between
+  padding: 25px 0
+
+.header__left
+  display: flex
+  align-items: center
+
+.search_header
+  margin-left: 37px
+
+.header__right
+  display: flex
+  align-items: center
+
+.button_header
+  margin-left: 26px
+
+.cart__link
+  display: flex
+  width: 150%
+  height: 150%
+
+
+/*shopping cart*/
+
+.shopping-cart__product
+  display: flex
+  justify-content: space-between
+  width: 100%
+  padding: 25px 0
+  border-bottom: $site-border
+
+.shopping-cart__product-block
+  display: flex
+
+
+
+.shopping-cart__product-del-btn
+  display: block
+  width: 15px
+  height: 15px
+  border-radius: 50%
+  background-color: #c0c0c0
+  position: relative
+
+.shopping-cart__product-del-btn-X
+  position: absolute
+  width: 10px
+  height: 2px
+  background-color: #ffffff
+  top: 50%
+  left: 50%
+  margin-left: -5px
+  margin-top: -1px
+  border-radius: 15px
+  transform: rotate(45deg)
+
+.shopping-cart__product-del-btn-X::after
+  content: ''
+  position: absolute
+  display: block
+  top: 0
+  left: 0
+  width: 10px
+  height: 2px
+  transform-origin: center
+  background-color: #ffffff
+  transform: rotate(90deg)
+  border-radius: 15px
+
+
+
+

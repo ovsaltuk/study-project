@@ -3,6 +3,12 @@
 @import "review&subscribe"
 @import "grid"
 @import "footer"
+@import "logo"
+@import "search"
+@import "cart"
+@import "button"
+@import "nav"
+
 
 *
   margin: 0
@@ -12,337 +18,44 @@
   border: none
 
 
+.container
+  margin: 0 auto
+  width: $site-width
+
+
 /* header */
 
 .header
-  border: $site-border
-  &__search
-    display: flex
-    align-items: center
+  border-bottom: 0.063rem solid #ececec
 
-.header__container
-  max-width: $site-width
-  height: 100px
-  margin: 0 auto
+.header_container
   display: flex
   justify-content: space-between
-  align-items: center
+  padding: 25px 0
 
-.header__left-container
-  display: flex
-
-.header__home-link
-  display: flex
-  align-items: center
-  text-decoration: none
-  text-transform: uppercase
-  color: #222222
-  font-size: 27px
-  font-weight: 300
-  line-height: 32px
-  margin-right: 37px
-  &_site-color
-    color: #f16d7f
-    font-weight: 400
-
-.header__home-link_img
-  margin-right: 13px
-
-.header__search
-  height: 37px
-  border: $site-border
-  border-radius: 3px
-
-.header__drop-down-btn
-  height: 100%
-  color: #222222
-  font-size: 14px
-  font-weight: 300
-  padding-left: 15px
-  background-color: #cdcdcc
-  background-image: linear-gradient(to bottom, #f9f9f9 0%, #f5f5f5 100%)
-
-.header__sort-down_drop-down
-  margin: 8px
-  color: #838383
-  font-size: 14px
-  font-weight: 400
-
-.header__drop-menu
-  position: relative
-  height: 100%
-
-.header__drop-down-details
-  position: absolute
-  display: none
-  z-index: 100
-  border: $site-border
-  border-radius: 5px
-  background-color: #ffffff
-  padding: 20px
-  min-width: 260px
-
-
-.header__drop-down-triangle
-  width: 7px
-  height: 7px
-  position: absolute
-  border-right: $site-border
-  border-top: $site-border
-  background-color: white
-  transform: rotate(-45deg)
-  top: -5px
-  left: 70px
-
-.header__drop-list
-  list-style: none
-  color: #4f4f4f
-  font-size: 14px
-  font-weight: 400
-  line-height: 28px
-
-.header__drop-list-categories
-  border-bottom: $site-border
-  margin-bottom: 16px
-
-.header__drop-list-link
-  text-decoration: none
-  color: #4f4f4f
-  font-size: 14px
-  font-weight: 400
-  line-height: 28px
-
-.header__drop-list-link:hover
-  color: $brand-color
-  transition: $link-hover-transition
-
-.header__drop-list-link_categories
-  font-size: 14px
-  font-weight: 400
-  line-height: 32px
-  text-transform: uppercase
-
-.header__search-form
-  height: 100%
-
-.header__search-area
-  height: 100%
-  padding-left: 16px
-  padding-right: 16px
-  border-right: $site-border
-  border-left: $site-border
-  width: 280px
-
-.header__search-btn
-  padding: 0 11px 0 11px
-  color: #a4a4a4
-  font-size: 14px
-  font-weight: 400
-
-.header__right-container
+.header__left
   display: flex
   align-items: center
 
-.header__cart-container
-  position: relative
+.search_header
+  margin-left: 37px
 
-.header__cart-container:hover .header__cart
-  display: block
-
-.header__cart
-  display: none
-  position: absolute
-  background-color: white
-  border: $site-border
-  padding: 20px
-  border-radius: 5px
-  top: 50px
-
-.header__cart-triangle
-  width: 7px
-  height: 7px
-  position: absolute
-  border-right: $site-border
-  border-top: $site-border
-  background-color: white
-  transform: rotate(-45deg)
-  top: -5px
-  left: 14px
-
-.header__cart-total
+.header__right
   display: flex
-  justify-content: space-between
-  color: #222222
-  font-size: 16px
-  font-weight: 700
-  text-transform: uppercase
-  margin-bottom: 30px
+  align-items: center
 
-
-.header__cart-button
-  width: 225px
-  height: 50px
-  border: $site-border
-  color: #4a4a4a
-  font-size: 14px
-  font-weight: 700
-  text-transform: uppercase
-
-.header__cart-button:first-child
-  margin-bottom: 10px
-
-.header__cart-button:hover
-  color: $brand-color
-  border: 1px solid $brand-color
-  transition: all 0.3s
-
-
-.header__cart-product-counter
-  position: absolute
-  border-radius: 50%
-  background-color: $brand-color
-  width: 19px
-  height: 19px
-  color: #ffffff
-  font-size: 12px
-  font-weight: 700
-  text-align: center
-  top: -7px
-  right: -9px
-  line-height: 19px
-
-.header__my-account-btn
-  padding: 0 20px
-  height: 38px
-  background-color: $brand-color
-  color: #ffffff
-  font-size: 15px
-  font-weight: 400
+.button_header
   margin-left: 26px
-  border: 1px solid transparent
 
-.header__my-account-btn:hover
-  background-color: #fff
-  border: 1px solid $brand-color
-  color: $brand-color
-  transition: all 0.3s
-
-.header__sort-down_my-account
-  font-size: 15px
-  font-weight: 400
-  margin-left: 8px
+.cart__link
+  display: flex
+  width: 150%
+  height: 150%
 
 /* navigation */
 
-.navigation
-  display: flex
-  justify-content: center
-  align-items: center
-  height: 50px
-  border-bottom: $site-border
-
-.navigation__menu
-  display: flex
-  justify-content: space-between
-  list-style: none
-  height: 100%
-
-.navigation__menu-element
-  padding: 0 25px
-  position: relative
+.nav_index
   border-bottom: 3px solid transparent
-
-.navigation__menu-link
-  position: relative
-  text-decoration: none
-  color: #222222
-  font-size: 14px
-  font-weight: 700
-  text-transform: uppercase
-  height: 100%
-  display: flex
-  align-items: center
-
-.navigation__menu-link:hover
-  color: $brand-color
-  transition: $link-hover-transition
-
-.navigation__menu-element:hover
-  border-color: $brand-color
-
-
-.navigation__menu-element:hover .navigation__mega-menu
-  display: flex
-
-.navigation__mega-menu
-  display: none
-  position: absolute
-  top: 40px
-  max-height: 310px
-  border: $site-border
-  border-radius: 5px
-  background: white
-  padding: 20px
-  z-index: 100
-
-.navigation__mega-menu-triangle
-  width: 7px
-  height: 7px
-  position: absolute
-  border-right: $site-border
-  border-top: $site-border
-  background-color: white
-  transform: rotate(-45deg)
-  top: -5px
-  left: 14px
-
-.navigation_mega-menu-block
-  display: flex
-  flex-direction: column
-  justify-content: space-between
-
-.navigation__mega-menu-headline
-  font-size: 14px
-  font-weight: 400
-  line-height: 32px
-  text-transform: uppercase
-  border-bottom: $site-border
-
-
-.navigation__mega-menu-list
-  list-style: none
-  margin-right: 45px
-
-
-
-.navigation__mega-menu-list-elem
-  width: 235px
-
-.navigation__mega-menu-link
-  text-decoration: none
-  color: #646464
-  font-size: 14px
-  font-weight: 400
-  line-height: 28px
-
-.navigation__mega-menu-link:hover
-  color: $brand-color
-  transition: $link-hover-transition
-
-.navigation_mega-menu-img-block
-  position: relative
-
-.navigation_mega-menu-img-block-text
-  position: absolute
-  right: 30px
-  bottom: 10px
-  color: #ffffff
-  font-size: 22px
-  font-weight: 400
-  line-height: 28px
-  text-transform: uppercase
-
-
 
 /*main-banner*/
 .main-banner
@@ -620,8 +333,6 @@
 
 
 /*grid*/
-
-
 
 .main_grid
   margin-bottom: 90px

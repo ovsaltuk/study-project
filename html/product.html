@@ -22,7 +22,8 @@
                 <div class="search search_header">
                     <details class="search__details">
                         <summary class="search__summary">
-                            Browse<i class="fas fa-sort-down search__summary-arrow"></i>
+                            Browse
+                            <i class="fas fa-sort-down search__summary-arrow"></i>
                         </summary>
                         <div class="search__details-drop-down">
                             <div class="search__details-drop-down-triangle"></div>
@@ -83,7 +84,7 @@
                             </ul>
                         </div>
                     </details>
-                    <form action="" class="search__form">
+                    <form action="#" class="search__form">
                         <input type="text"  placeholder="Search for Item..." class="search__input">
                         <button class="search__btn"><i class="fas fa-search"></i></button>
                     </form>
@@ -750,7 +751,7 @@
                     <h3 class="filters__filter-name">
                         Size
                     </h3>
-                    <div class="checkbox-container">
+                    <form class="checkbox-container">
                         <label class="checkbox checkbox_filter">
                             <input type="checkbox" class="checkbox__input" />
                             <div class="checkbox__text">XXS</div>
@@ -779,7 +780,7 @@
                             <input type="checkbox" class="checkbox__input" />
                             <div class="checkbox__text">XXl</div>
                         </label>
-                    </div>
+                    </form>
                 </div>
                 <div class="filters__filter">
                     <h3 class="filters__filter-name">
@@ -795,7 +796,7 @@
             </div>
             <div class="sort sort_product">
                 <div class="sort__container">
-                    <div class="sort__heading">Sort By</div>
+                    <label for="sortBy" class="sort__heading">Sort By</label>
                     <select name="sort by" id="sortBy" class="sort__select">
                         <option value="Name" class="sort__option">Name</option>
                         <option value="Name" class="sort__option">Name</option>
@@ -805,7 +806,7 @@
 
                 </div>
                 <div class="sort__container">
-                    <p class="sort__heading">Show</p>
+                    <label for="show" class="sort__heading">Show</label>
                     <select name="show" id="show" class="sort__select">
                         <option value="1" class="sort__option">01</option>
                         <option value="2" class="sort__option">02</option>
