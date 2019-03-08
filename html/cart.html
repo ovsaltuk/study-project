@@ -590,8 +590,16 @@
 </div>
     <div class="shopping-cart">
         <div class="container">
+            <div class="shopping-cart__product shopping-cart__product_heading">
+                <h4 class="shopping-cart__product-block shopping-cart__product-block_wide">Product Details</h4>
+                <h4 class="shopping-cart__product-block">unite Price</h4>
+                <h4 class="shopping-cart__product-block">Quantity</h4>
+                <h4 class="shopping-cart__product-block">shipping</h4>
+                <h4 class="shopping-cart__product-block">Subtotal</h4>
+                <h4 class="shopping-cart__product-block">ACTION</h4>
+            </div>
             <div class="shopping-cart__product">
-                <div class="shopping-cart__product-block">
+                <div class="shopping-cart__product-block shopping-cart__product-block_wide">
                     <img src="../img/small-product1.png" alt="product 1" class="shopping-cart__product-img">
                     <div class="shopping-cart__product-text">
                         <h3 class="shopping-cart__product-text-name">Mango  People  T-shirt</h3>
@@ -608,8 +616,10 @@
                     <span class="shopping-cart__product-price">150$</span>
                 </div>
                 <div class="shopping-cart__product-block">
-                    <label for="quantity"></label>
-                    <input type="number" class="shopping-cart__product-quantity" id="quantity">
+                    <form action="#">
+                        <label for="productId-1"></label>
+                        <input type="number" class="shopping-cart__product-quantity" id="productId-1">
+                    </form>
                 </div>
                 <div class="shopping-cart__product-block">
                     <span class="shopping-cart__product-delivery-cost">free</span>
@@ -619,9 +629,118 @@
                 </div>
                 <div class="shopping-cart__product-block">
                     <a href="#" class="shopping-cart__product-del-btn">
-                        <span class="shopping-cart__product-del-btn-X"></span>
+                        <i class="fas fa-times-circle shopping-cart__product-del-cross"></i>
                     </a>
                 </div>
+            </div>
+            <div class="shopping-cart__product">
+                <div class="shopping-cart__product-block shopping-cart__product-block_wide">
+                    <img src="../img/small-product2.png" alt="product 1" class="shopping-cart__product-img">
+                    <div class="shopping-cart__product-text">
+                        <h3 class="shopping-cart__product-text-name">Mango  People  T-shirt</h3>
+                        <p class="shopping-cart__product-text-info">Color:
+                            <span class="shopping-cart__product-text-info-value">Red</span>
+                        </p>
+                        <p class="shopping-cart__product-text-info">Size:
+                            <span class="shopping-cart__product-text-info-value">Xll</span>
+                        </p>
+
+                    </div>
+                </div>
+                <div class="shopping-cart__product-block">
+                    <span class="shopping-cart__product-price">150$</span>
+                </div>
+                <div class="shopping-cart__product-block">
+                    <form action="#">
+                        <label for="productId-2"></label>
+                        <input type="number" class="shopping-cart__product-quantity" id="productId-2">
+                    </form>
+                </div>
+                <div class="shopping-cart__product-block">
+                    <span class="shopping-cart__product-delivery-cost">free</span>
+                </div>
+                <div class="shopping-cart__product-block">
+                    <span class="shopping-cart__product-subtotal">$300</span>
+                </div>
+                <div class="shopping-cart__product-block">
+                    <a href="#" class="shopping-cart__product-del-btn">
+                        <i class="fas fa-times-circle shopping-cart__product-del-cross"></i>
+                    </a>
+                </div>
+            </div>
+            <div class="shopping-cart__product">
+                <div class="shopping-cart__product-block shopping-cart__product-block_wide">
+                    <img src="../img/small-product3.png" alt="product 1" class="shopping-cart__product-img">
+                    <div class="shopping-cart__product-text">
+                        <h3 class="shopping-cart__product-text-name">Mango  People  T-shirt</h3>
+                        <p class="shopping-cart__product-text-info">Color:
+                            <span class="shopping-cart__product-text-info-value">Red</span>
+                        </p>
+                        <p class="shopping-cart__product-text-info">Size:
+                            <span class="shopping-cart__product-text-info-value">Xll</span>
+                        </p>
+
+                    </div>
+                </div>
+                <div class="shopping-cart__product-block">
+                    <span class="shopping-cart__product-price">150$</span>
+                </div>
+                <div class="shopping-cart__product-block">
+                    <form action="#">
+                        <label for="productId-3"></label>
+                        <input type="number" class="shopping-cart__product-quantity" id="productId-3">
+                    </form>
+                </div>
+                <div class="shopping-cart__product-block">
+                    <span class="shopping-cart__product-delivery-cost">free</span>
+                </div>
+                <div class="shopping-cart__product-block">
+                    <span class="shopping-cart__product-subtotal">$300</span>
+                </div>
+                <div class="shopping-cart__product-block">
+                    <a href="#" class="shopping-cart__product-del-btn">
+                        <i class="fas fa-times-circle shopping-cart__product-del-cross"></i>
+                    </a>
+                </div>
+            </div>
+            <div class="shopping-cart__btn-container">
+                <button class="shopping-cart__btn">cLEAR SHOPPING CART</button>
+                <button class="shopping-cart__btn">cONTINUE sHOPPING</button>
+            </div>
+            <div class="form">
+                <form action="#" class="form__box">
+                    <h3 class="form__box-heading">Shipping Adress</h3>
+                    <label for="country"></label>
+                    <select name="country" id="country" class="form__box-input">
+                        <option value="Bangladesh">Bangladesh</option>
+                        <option value="Bangladesh">Bangladesh</option>
+                        <option value="Bangladesh">Bangladesh</option>
+                        <option value="Bangladesh">Bangladesh</option>
+                    </select>
+                    <label for="state"></label>
+                    <input type="text" id="state" placeholder="State" class="form__box-input">
+                    <label for="postcode"></label>
+                    <input type="text" id="postcode" placeholder="Postcode / Zip" class="form__box-input">
+                    <button class="form__box-btn">
+                        get a quote
+                    </button>
+                </form>
+                <form action="#" class="form__box">
+                    <h3 class="form__box-heading">coupon  discount</h3>
+                    <span class="form__box-span">Enter your coupon code if you have one</span>
+                    <label for="couponCode"></label>
+                    <input type="text" id="couponCode" placeholder="State" class="form__box-input">
+                    <button class="form__box-btn">
+                        Apply coupon
+                    </button>
+                </form>
+                <form action="#" class="form__box">
+                    <div class="form-box__sum">
+                        <h4 class="form__sub-total">Sub total  <span class="form__sub-total-sum">$900</span></h4>
+                        <h3 class="form__grand-total">GRAND TOTAL<span class="form__grand-total-sum">$900</span></h3>
+                    </div>
+                    <button class="form__checkout-btn">proceed to checkout</button>
+                </form>
             </div>
         </div>
     </div>
