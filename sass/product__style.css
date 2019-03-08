@@ -1,3 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Lato", sans-serif;
+  outline: none;
+  border: none; }
+
+.container {
+  margin: 0 auto;
+  width: 1140px; }
+
+/*header */
+.header {
+  border-bottom: 0.063rem solid #ececec; }
+
+.header_container {
+  display: flex;
+  justify-content: space-between;
+  padding: 25px 0; }
+
+.header__left {
+  display: flex;
+  align-items: center; }
+
+.search_header {
+  margin-left: 37px; }
+
+.header__right {
+  display: flex;
+  align-items: center; }
+
+.button_header {
+  margin-left: 26px; }
+
+.cart__link {
+  display: flex;
+  width: 150%;
+  height: 150%; }
+
+.cart_breadcrumbs {
+  margin-bottom: 70px; }
+
 /*logo */
 .logo {
   display: flex;
@@ -457,6 +499,7 @@
   margin: 10px 10px; }
 
 .checkbox__text {
+  display: block;
   position: relative;
   padding: 0 0 0 23px;
   cursor: pointer;
