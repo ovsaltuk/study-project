@@ -1,0 +1,31 @@
+.checkbox__input
+  position: absolute
+  z-index: -1
+  opacity: 0
+  margin: 10px 10px
+
+.checkbox__text
+  display: block
+  position: relative
+  padding: 0 0 0 23px
+  cursor: pointer
+  color: #222222
+  font-size: 0.75rem
+  font-weight: 400
+  text-transform: uppercase
+  line-height: 1.25rem
+
+.checkbox__text:before
+  content: ''
+  position: absolute
+  left: 0
+  height: 14px
+  width: 14px
+  border: 0.125rem solid #555555
+  border-radius: 50%
+  transition: .2s
+
+
+.checkbox input:checked + .checkbox__text:before
+  background: #555555
+  box-shadow: inset 0px 0px 0px 1px rgba(255,255,255,1)

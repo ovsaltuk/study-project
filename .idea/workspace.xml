@@ -2,29 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0490fc65-6cf2-4a07-a1dc-89a7e6bfd62e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../study project/sass/_checkbox_circle-black.sass" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../study project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../study project/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../study project/html/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/../study project/html/cart.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../study project/html/checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/../study project/html/checkout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../study project/html/product.html" beforeDir="false" afterPath="$PROJECT_DIR$/../study project/html/product.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../study project/html/single-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/../study project/html/single-page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../study project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../study project/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../study project/sass/.sass-cache/e00e56f985a7660791fc41f08937e8dcbfbc6bf1/_cart.sassc" beforeDir="false" afterPath="$PROJECT_DIR$/../study project/sass/.sass-cache/e00e56f985a7660791fc41f08937e8dcbfbc6bf1/_cart.sassc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../study project/sass/.sass-cache/e00e56f985a7660791fc41f08937e8dcbfbc6bf1/_vars.sassc" beforeDir="false" afterPath="$PROJECT_DIR$/../study project/sass/.sass-cache/e00e56f985a7660791fc41f08937e8dcbfbc6bf1/_vars.sassc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../study project/sass/.sass-cache/e00e56f985a7660791fc41f08937e8dcbfbc6bf1/shopping-cart.sassc" beforeDir="false" afterPath="$PROJECT_DIR$/../study project/sass/.sass-cache/e00e56f985a7660791fc41f08937e8dcbfbc6bf1/shopping-cart.sassc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../study project/sass/_cart.sass" beforeDir="false" afterPath="$PROJECT_DIR$/../study project/sass/_cart.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../study project/sass/_vars.sass" beforeDir="false" afterPath="$PROJECT_DIR$/../study project/sass/_vars.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study project/sass/.sass-cache/e00e56f985a7660791fc41f08937e8dcbfbc6bf1/checkout-style.sassc" beforeDir="false" afterPath="$PROJECT_DIR$/../study project/sass/.sass-cache/e00e56f985a7660791fc41f08937e8dcbfbc6bf1/checkout-style.sassc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../study project/sass/checkout-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../study project/sass/checkout-style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../study project/sass/checkout-style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../study project/sass/checkout-style.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../study project/sass/product__style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../study project/sass/product__style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../study project/sass/product__style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../study project/sass/product__style.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../study project/sass/shopping-cart.css" beforeDir="false" afterPath="$PROJECT_DIR$/../study project/sass/shopping-cart.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../study project/sass/shopping-cart.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../study project/sass/shopping-cart.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../study project/sass/shopping-cart.sass" beforeDir="false" afterPath="$PROJECT_DIR$/../study project/sass/shopping-cart.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../study project/sass/single-page-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../study project/sass/single-page-style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../study project/sass/single-page-style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../study project/sass/single-page-style.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../study project/sass/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../study project/sass/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../study project/sass/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../study project/sass/style.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../study project/sass/style.sass" beforeDir="false" afterPath="$PROJECT_DIR$/../study project/sass/style.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study project/sass/checkout-style.sass" beforeDir="false" afterPath="$PROJECT_DIR$/../study project/sass/checkout-style.sass" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,70 +17,64 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../study project/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="33" lean-forward="true" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
-              <folding>
-                <element signature="e#48684#48690#0" expanded="true" />
-                <element signature="e#49319#49325#0" expanded="true" />
-                <element signature="e#49954#49960#0" expanded="true" />
-                <element signature="e#50437#50444#0" expanded="true" />
-                <element signature="e#50495#50501#0" expanded="true" />
-                <element signature="e#50526#50532#0" expanded="true" />
-                <element signature="e#50558#50564#0" expanded="true" />
-                <element signature="e#50611#50618#0" expanded="true" />
-                <element signature="e#52060#52066#0" expanded="true" />
-                <element signature="e#52128#52134#0" expanded="true" />
-                <element signature="e#52151#52157#0" expanded="true" />
-                <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#1;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#0;n#div#1;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../study project/sass/style.sass">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../study project/html/single-page.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
-              <caret line="576" column="6" lean-forward="true" selection-start-line="576" selection-start-column="6" selection-end-line="576" selection-end-column="6" />
-              <folding>
-                <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#li#1;n#ul#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#li#2;n#ul#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#li#3;n#ul#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#1;n#div#3;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/../study project/html/checkout.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="765">
+                  <caret line="354" column="22" lean-forward="true" selection-start-line="354" selection-start-column="22" selection-end-line="354" selection-end-column="22" />
+                  <folding>
+                    <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#0;n#details#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#0;n#div#0;n#div#0;n#details#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#0;n#details#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#0;n#div#0;n#details#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#form#0;n#div#0;n#div#0;n#details#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#1;n#div#0;n#details#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#0;n#details#2;n#div#1;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#0;n#div#0;n#details#2;n#div#1;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#form#0;n#div#0;n#div#0;n#details#2;n#div#1;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#1;n#div#0;n#details#2;n#div#1;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#0;n#details#3;n#div#1;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#0;n#div#0;n#details#3;n#div#1;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#form#0;n#div#0;n#div#0;n#details#3;n#div#1;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#1;n#div#0;n#details#3;n#div#1;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#0;n#details#4;n#div#1;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#0;n#div#0;n#details#4;n#div#1;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#form#0;n#div#0;n#div#0;n#details#4;n#div#1;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#1;n#div#0;n#details#4;n#div#1;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#0;n#details#5;n#div#1;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#0;n#div#0;n#details#5;n#div#1;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#form#0;n#div#0;n#div#0;n#details#5;n#div#1;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#1;n#div#0;n#details#5;n#div#1;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/../study project/sass/checkout-style.sass">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1127">
+                  <caret line="140" column="21" selection-start-line="140" selection-start-column="21" selection-end-line="140" selection-end-column="21" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -126,9 +104,11 @@
       <find>&lt;p class=&quot;checkbox__text&quot;</find>
       <find>shopping-cart__product-text-name</find>
       <find>&lt;h3 class=&quot;shopping-cart__product-text-name&quot;&gt;Mango  People  T-shirt&lt;/h3&gt;</find>
-      <find>shopping-cart__product-text-info-value</find>
       <find>product.html</find>
+      <find>shopping-cart__product-text-info-value</find>
       <find>html/html/product.html</find>
+      <find>ton&gt;</find>
+      <find>form</find>
     </findStrings>
     <replaceStrings>
       <replace>nav</replace>
@@ -177,7 +157,6 @@
         <option value="$PROJECT_DIR$/sass/shopping-cart.sass" />
         <option value="$PROJECT_DIR$/sass/_checkbox.sass" />
         <option value="$PROJECT_DIR$/html/product.html" />
-        <option value="$PROJECT_DIR$/../study project/sass/checkout-style.sass" />
         <option value="$PROJECT_DIR$/../study project/product-1.html" />
         <option value="$PROJECT_DIR$/../study project/dfad.sass" />
         <option value="$PROJECT_DIR$/../study project/sass/dfad.sass" />
@@ -187,11 +166,14 @@
         <option value="$PROJECT_DIR$/../study project/sass/_vars.sass" />
         <option value="$PROJECT_DIR$/../study project/html/cart.html" />
         <option value="$PROJECT_DIR$/../study project/sass/_cart.sass" />
-        <option value="$PROJECT_DIR$/../study project/html/checkout.html" />
         <option value="$PROJECT_DIR$/../study project/html/product.html" />
         <option value="$PROJECT_DIR$/../study project/html/single-page.html" />
         <option value="$PROJECT_DIR$/../study project/sass/style.sass" />
         <option value="$PROJECT_DIR$/../study project/index.html" />
+        <option value="$PROJECT_DIR$/../study project/sass/_checkbox.sass" />
+        <option value="$PROJECT_DIR$/../study project/sass/_checkbox_circle-black.sass" />
+        <option value="$PROJECT_DIR$/../study project/sass/checkout-style.sass" />
+        <option value="$PROJECT_DIR$/../study project/html/checkout.html" />
       </list>
     </option>
   </component>
@@ -271,12 +253,12 @@
       <workItem from="1549821677587" duration="752000" />
       <workItem from="1550908874569" duration="868000" />
       <workItem from="1550925453654" duration="5279000" />
-      <workItem from="1551009640838" duration="84964000" />
+      <workItem from="1551009640838" duration="92256000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91863000" />
+    <option name="totallyTimeSpent" value="99155000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
@@ -456,31 +438,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../study project/sass/_search.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="35" column="35" lean-forward="true" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../study project/sass/_filters.sass">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="735">
           <caret line="49" column="20" lean-forward="true" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../study project/sass/_breadcrumbs.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="15" lean-forward="true" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../study project/sass/_checkbox.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
@@ -509,20 +470,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
           <caret line="39" column="19" lean-forward="true" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../study project/sass/checkout-style.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../study project/sass/product__style.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
         </state>
       </provider>
     </entry>
@@ -574,25 +521,68 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../study project/html/checkout.html">
+    <entry file="file://$PROJECT_DIR$/../study project/sass/_vars.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="121" column="9" lean-forward="true" selection-start-line="16" selection-end-line="121" selection-end-column="9" />
+        <state relative-caret-position="540">
+          <caret line="36" column="15" lean-forward="true" selection-start-line="36" selection-start-column="15" selection-end-line="36" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../study project/sass/style.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../study project/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="95" column="50" lean-forward="true" selection-start-line="95" selection-start-column="50" selection-end-line="95" selection-end-column="50" />
           <folding>
-            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#summary#0;n#details#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#details#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../study project/sass/_search.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../study project/sass/_breadcrumbs.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="15" lean-forward="true" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../study project/sass/product__style.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../study project/sass/_checkbox.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="2" lean-forward="true" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../study project/html/product.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        <state relative-caret-position="806">
+          <caret line="754" selection-start-line="754" selection-end-line="757" selection-end-column="32" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
@@ -629,17 +619,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../study project/sass/style.sass">
+    <entry file="file://$PROJECT_DIR$/../study project/sass/_checkbox_circle-black.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../study project/sass/_vars.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="15" lean-forward="true" selection-start-line="36" selection-start-column="15" selection-end-line="36" selection-end-column="15" />
+        <state relative-caret-position="450">
+          <caret line="30" column="29" lean-forward="true" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -650,7 +633,6 @@
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#li#1;n#ul#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#li#2;n#ul#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#li#3;n#ul#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" />
@@ -667,27 +649,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../study project/index.html">
+    <entry file="file://$PROJECT_DIR$/../study project/sass/checkout-style.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="33" lean-forward="true" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
+        <state relative-caret-position="1127">
+          <caret line="140" column="21" selection-start-line="140" selection-start-column="21" selection-end-line="140" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../study project/html/checkout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="354" column="22" lean-forward="true" selection-start-line="354" selection-start-column="22" selection-end-line="354" selection-end-column="22" />
           <folding>
-            <element signature="e#48684#48690#0" expanded="true" />
-            <element signature="e#49319#49325#0" expanded="true" />
-            <element signature="e#49954#49960#0" expanded="true" />
-            <element signature="e#50437#50444#0" expanded="true" />
-            <element signature="e#50495#50501#0" expanded="true" />
-            <element signature="e#50526#50532#0" expanded="true" />
-            <element signature="e#50558#50564#0" expanded="true" />
-            <element signature="e#50611#50618#0" expanded="true" />
-            <element signature="e#52060#52066#0" expanded="true" />
-            <element signature="e#52128#52134#0" expanded="true" />
-            <element signature="e#52151#52157#0" expanded="true" />
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#details#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#details#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#details#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#details#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#form#0;n#div#0;n#div#0;n#details#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#details#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#details#2;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#details#2;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#form#0;n#div#0;n#div#0;n#details#2;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#details#2;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#details#3;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#details#3;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#form#0;n#div#0;n#div#0;n#details#3;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#details#3;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#details#4;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#details#4;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#form#0;n#div#0;n#div#0;n#details#4;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#details#4;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#details#5;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#details#5;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#form#0;n#div#0;n#div#0;n#details#5;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#details#5;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
             <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#1;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
