@@ -236,6 +236,10 @@
   margin-bottom: 30px; }
 
 .cart__button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
   width: 225px;
   height: 50px;
   border: 0.063rem solid #ececec;
@@ -742,11 +746,11 @@
   text-transform: uppercase;
   padding: 0 53px;
   height: 50px;
-  border: 0.063rem solid #ececec; }
+  border: 0.063rem solid #ececec;
+  transition: 0.3s; }
   .checkout__btn:hover {
     border-color: #f16d7f;
-    color: #f16d7f;
-    transition: 0.3s; }
+    color: #f16d7f; }
 
 .checkout__log-in {
   display: flex;
