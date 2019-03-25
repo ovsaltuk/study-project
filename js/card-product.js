@@ -63,7 +63,7 @@ let makeEl = function (tagName, className, text){
 
 
 // create one product cart
-let productRender = function (productEl) {
+let createCartElement = function (productEl) {
     let product = makeEl('div', 'card-product');
     product.classList.add('card-product_index');
 
@@ -103,5 +103,11 @@ let productRender = function (productEl) {
 
 
     return product;
+};
+
+let renderCart = function (productArray, container){
+    for (let i = 0; i < productArray.length; i++ ) {
+        container.appendChild(createCartElement(productArray[i]));
+    }
 };
 

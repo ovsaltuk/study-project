@@ -899,13 +899,11 @@
         </div>
     </div>
 </footer>
-<script src="js/product.js"></script>
+<script src="js/card-product.js"></script>
 <script>
 
     let container = document.querySelector('.products__container');
-    for (let i = 0;i < productList.length; i++ ){
-      container.appendChild(productRender(productList[i]));
-    }
+    renderCart(productList, container);
 
 </script>
 </body>
