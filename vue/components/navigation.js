@@ -11,8 +11,7 @@ Vue.component('navigation', {
                         <ul class="nav__mega-menu-list">
                             <li class="nav__mega-menu-list-elem">
                                 <h4 class="nav__mega-menu-headline">woman</h4></li>
-                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
-                                                                    class="nav__mega-menu-link">
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html" class="nav__mega-menu-link">
                                 Dresses</a></li>
                             <li class="nav__mega-menu-list-elem"><a href="../product.html"
                                                                     class="nav__mega-menu-link">
@@ -44,8 +43,7 @@ Vue.component('navigation', {
                         <ul class="nav__mega-menu-list">
                             <li class="nav__mega-menu-list-elem">
                                 <h4 class="nav__mega-menu-headline">woman</h4></li>
-                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
-                                                                    class="nav__mega-menu-link">
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html" class="nav__mega-menu-link">
                                 Dresses</a></li>
                             <li class="nav__mega-menu-list-elem"><a href="../product.html"
                                                                     class="nav__mega-menu-link">
@@ -56,29 +54,28 @@ Vue.component('navigation', {
                             <li class="nav__mega-menu-list-elem"><a href="../product.html"
                                                                     class="nav__mega-menu-link">
                                 Jackets/Coats</a></li>
-                            <li class="nav__mega-menu-list-elem">
-                        </ul>
-
-                        <ul class="nav__mega-menu-list">
-                            <li class="nav__mega-menu-list-elem">
-                                <h4 class="nav__mega-menu-headline">woman</h4></li>
                             <li class="nav__mega-menu-list-elem"><a href="../product.html"
                                                                     class="nav__mega-menu-link">
-                                Dresses</a></li>
+                                Blazers</a></li>
                             <li class="nav__mega-menu-list-elem"><a href="../product.html"
                                                                     class="nav__mega-menu-link">
-                                Tops</a></li>
+                                Denim</a></li>
                             <li class="nav__mega-menu-list-elem"><a href="../product.html"
                                                                     class="nav__mega-menu-link">
-                                Sweaters/Knits</a></li>
+                                Leggings/Pants</a></li>
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
+                                                                    class="nav__mega-menu-link">
+                                Skirts/Shorts</a></li>
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
+                                                                    class="nav__mega-menu-link">
+                                Accessories</a></li>
                         </ul>
                     </div>
                     <div class="nav_mega-menu-block">
                         <ul class="nav__mega-menu-list">
                             <li class="nav__mega-menu-list-elem">
                                 <h4 class="nav__mega-menu-headline">woman</h4></li>
-                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
-                                                                    class="nav__mega-menu-link">
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html" class="nav__mega-menu-link">
                                 Dresses</a></li>
                             <li class="nav__mega-menu-list-elem"><a href="../product.html"
                                                                     class="nav__mega-menu-link">
@@ -89,13 +86,22 @@ Vue.component('navigation', {
                             <li class="nav__mega-menu-list-elem"><a href="../product.html"
                                                                     class="nav__mega-menu-link">
                                 Jackets/Coats</a></li>
-                            <li class="nav__mega-menu-list-elem">
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
+                                                                    class="nav__mega-menu-link">
+                                Blazers</a></li>
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
+                                                                    class="nav__mega-menu-link">
+                                Denim</a></li>
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
+                                                                    class="nav__mega-menu-link">
+                                Leggings/Pants</a></li>
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
+                                                                    class="nav__mega-menu-link">
+                                Skirts/Shorts</a></li>
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
+                                                                    class="nav__mega-menu-link">
+                                Accessories</a></li>
                         </ul>
-
-                        <div class="nav_mega-menu-img-block">
-                            <img src=".././img/mega-menu-img.jpg" alt="super sale">
-                            <div class="nav_mega-menu-img-block-text">Super<br>sale!</div>
-                        </div>
                     </div>
                 </div>
             </li>
@@ -106,8 +112,7 @@ Vue.component('navigation', {
                         <ul class="nav__mega-menu-list">
                             <li class="nav__mega-menu-list-elem">
                                 <h4 class="nav__mega-menu-headline">woman</h4></li>
-                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
-                                                                    class="nav__mega-menu-link">
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html" class="nav__mega-menu-link">
                                 Dresses</a></li>
                             <li class="nav__mega-menu-list-elem"><a href="../product.html"
                                                                     class="nav__mega-menu-link">
@@ -139,8 +144,7 @@ Vue.component('navigation', {
                         <ul class="nav__mega-menu-list">
                             <li class="nav__mega-menu-list-elem">
                                 <h4 class="nav__mega-menu-headline">woman</h4></li>
-                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
-                                                                    class="nav__mega-menu-link">
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html" class="nav__mega-menu-link">
                                 Dresses</a></li>
                             <li class="nav__mega-menu-list-elem"><a href="../product.html"
                                                                     class="nav__mega-menu-link">
@@ -151,29 +155,28 @@ Vue.component('navigation', {
                             <li class="nav__mega-menu-list-elem"><a href="../product.html"
                                                                     class="nav__mega-menu-link">
                                 Jackets/Coats</a></li>
-                            <li class="nav__mega-menu-list-elem">
-                        </ul>
-
-                        <ul class="nav__mega-menu-list">
-                            <li class="nav__mega-menu-list-elem">
-                                <h4 class="nav__mega-menu-headline">woman</h4></li>
                             <li class="nav__mega-menu-list-elem"><a href="../product.html"
                                                                     class="nav__mega-menu-link">
-                                Dresses</a></li>
+                                Blazers</a></li>
                             <li class="nav__mega-menu-list-elem"><a href="../product.html"
                                                                     class="nav__mega-menu-link">
-                                Tops</a></li>
+                                Denim</a></li>
                             <li class="nav__mega-menu-list-elem"><a href="../product.html"
                                                                     class="nav__mega-menu-link">
-                                Sweaters/Knits</a></li>
+                                Leggings/Pants</a></li>
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
+                                                                    class="nav__mega-menu-link">
+                                Skirts/Shorts</a></li>
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
+                                                                    class="nav__mega-menu-link">
+                                Accessories</a></li>
                         </ul>
                     </div>
                     <div class="nav_mega-menu-block">
                         <ul class="nav__mega-menu-list">
                             <li class="nav__mega-menu-list-elem">
                                 <h4 class="nav__mega-menu-headline">woman</h4></li>
-                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
-                                                                    class="nav__mega-menu-link">
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html" class="nav__mega-menu-link">
                                 Dresses</a></li>
                             <li class="nav__mega-menu-list-elem"><a href="../product.html"
                                                                     class="nav__mega-menu-link">
@@ -184,13 +187,22 @@ Vue.component('navigation', {
                             <li class="nav__mega-menu-list-elem"><a href="../product.html"
                                                                     class="nav__mega-menu-link">
                                 Jackets/Coats</a></li>
-                            <li class="nav__mega-menu-list-elem">
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
+                                                                    class="nav__mega-menu-link">
+                                Blazers</a></li>
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
+                                                                    class="nav__mega-menu-link">
+                                Denim</a></li>
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
+                                                                    class="nav__mega-menu-link">
+                                Leggings/Pants</a></li>
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
+                                                                    class="nav__mega-menu-link">
+                                Skirts/Shorts</a></li>
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
+                                                                    class="nav__mega-menu-link">
+                                Accessories</a></li>
                         </ul>
-
-                        <div class="nav_mega-menu-img-block">
-                            <img src=".././img/mega-menu-img.jpg" alt="super sale">
-                            <div class="nav_mega-menu-img-block-text">Super<br>sale!</div>
-                        </div>
                     </div>
                 </div>
             </li>
@@ -201,8 +213,7 @@ Vue.component('navigation', {
                         <ul class="nav__mega-menu-list">
                             <li class="nav__mega-menu-list-elem">
                                 <h4 class="nav__mega-menu-headline">woman</h4></li>
-                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
-                                                                    class="nav__mega-menu-link">
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html" class="nav__mega-menu-link">
                                 Dresses</a></li>
                             <li class="nav__mega-menu-list-elem"><a href="../product.html"
                                                                     class="nav__mega-menu-link">
@@ -234,8 +245,7 @@ Vue.component('navigation', {
                         <ul class="nav__mega-menu-list">
                             <li class="nav__mega-menu-list-elem">
                                 <h4 class="nav__mega-menu-headline">woman</h4></li>
-                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
-                                                                    class="nav__mega-menu-link">
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html" class="nav__mega-menu-link">
                                 Dresses</a></li>
                             <li class="nav__mega-menu-list-elem"><a href="../product.html"
                                                                     class="nav__mega-menu-link">
@@ -246,29 +256,28 @@ Vue.component('navigation', {
                             <li class="nav__mega-menu-list-elem"><a href="../product.html"
                                                                     class="nav__mega-menu-link">
                                 Jackets/Coats</a></li>
-                            <li class="nav__mega-menu-list-elem">
-                        </ul>
-
-                        <ul class="nav__mega-menu-list">
-                            <li class="nav__mega-menu-list-elem">
-                                <h4 class="nav__mega-menu-headline">woman</h4></li>
                             <li class="nav__mega-menu-list-elem"><a href="../product.html"
                                                                     class="nav__mega-menu-link">
-                                Dresses</a></li>
+                                Blazers</a></li>
                             <li class="nav__mega-menu-list-elem"><a href="../product.html"
                                                                     class="nav__mega-menu-link">
-                                Tops</a></li>
+                                Denim</a></li>
                             <li class="nav__mega-menu-list-elem"><a href="../product.html"
                                                                     class="nav__mega-menu-link">
-                                Sweaters/Knits</a></li>
+                                Leggings/Pants</a></li>
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
+                                                                    class="nav__mega-menu-link">
+                                Skirts/Shorts</a></li>
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
+                                                                    class="nav__mega-menu-link">
+                                Accessories</a></li>
                         </ul>
                     </div>
                     <div class="nav_mega-menu-block">
                         <ul class="nav__mega-menu-list">
                             <li class="nav__mega-menu-list-elem">
                                 <h4 class="nav__mega-menu-headline">woman</h4></li>
-                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
-                                                                    class="nav__mega-menu-link">
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html" class="nav__mega-menu-link">
                                 Dresses</a></li>
                             <li class="nav__mega-menu-list-elem"><a href="../product.html"
                                                                     class="nav__mega-menu-link">
@@ -279,13 +288,22 @@ Vue.component('navigation', {
                             <li class="nav__mega-menu-list-elem"><a href="../product.html"
                                                                     class="nav__mega-menu-link">
                                 Jackets/Coats</a></li>
-                            <li class="nav__mega-menu-list-elem">
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
+                                                                    class="nav__mega-menu-link">
+                                Blazers</a></li>
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
+                                                                    class="nav__mega-menu-link">
+                                Denim</a></li>
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
+                                                                    class="nav__mega-menu-link">
+                                Leggings/Pants</a></li>
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
+                                                                    class="nav__mega-menu-link">
+                                Skirts/Shorts</a></li>
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
+                                                                    class="nav__mega-menu-link">
+                                Accessories</a></li>
                         </ul>
-
-                        <div class="nav_mega-menu-img-block">
-                            <img src=".././img/mega-menu-img.jpg" alt="super sale">
-                            <div class="nav_mega-menu-img-block-text">Super<br>sale!</div>
-                        </div>
                     </div>
                 </div>
             </li>
@@ -296,8 +314,7 @@ Vue.component('navigation', {
                         <ul class="nav__mega-menu-list">
                             <li class="nav__mega-menu-list-elem">
                                 <h4 class="nav__mega-menu-headline">woman</h4></li>
-                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
-                                                                    class="nav__mega-menu-link">
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html" class="nav__mega-menu-link">
                                 Dresses</a></li>
                             <li class="nav__mega-menu-list-elem"><a href="../product.html"
                                                                     class="nav__mega-menu-link">
@@ -329,8 +346,7 @@ Vue.component('navigation', {
                         <ul class="nav__mega-menu-list">
                             <li class="nav__mega-menu-list-elem">
                                 <h4 class="nav__mega-menu-headline">woman</h4></li>
-                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
-                                                                    class="nav__mega-menu-link">
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html" class="nav__mega-menu-link">
                                 Dresses</a></li>
                             <li class="nav__mega-menu-list-elem"><a href="../product.html"
                                                                     class="nav__mega-menu-link">
@@ -341,29 +357,28 @@ Vue.component('navigation', {
                             <li class="nav__mega-menu-list-elem"><a href="../product.html"
                                                                     class="nav__mega-menu-link">
                                 Jackets/Coats</a></li>
-                            <li class="nav__mega-menu-list-elem">
-                        </ul>
-
-                        <ul class="nav__mega-menu-list">
-                            <li class="nav__mega-menu-list-elem">
-                                <h4 class="nav__mega-menu-headline">woman</h4></li>
                             <li class="nav__mega-menu-list-elem"><a href="../product.html"
                                                                     class="nav__mega-menu-link">
-                                Dresses</a></li>
+                                Blazers</a></li>
                             <li class="nav__mega-menu-list-elem"><a href="../product.html"
                                                                     class="nav__mega-menu-link">
-                                Tops</a></li>
+                                Denim</a></li>
                             <li class="nav__mega-menu-list-elem"><a href="../product.html"
                                                                     class="nav__mega-menu-link">
-                                Sweaters/Knits</a></li>
+                                Leggings/Pants</a></li>
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
+                                                                    class="nav__mega-menu-link">
+                                Skirts/Shorts</a></li>
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
+                                                                    class="nav__mega-menu-link">
+                                Accessories</a></li>
                         </ul>
                     </div>
                     <div class="nav_mega-menu-block">
                         <ul class="nav__mega-menu-list">
                             <li class="nav__mega-menu-list-elem">
                                 <h4 class="nav__mega-menu-headline">woman</h4></li>
-                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
-                                                                    class="nav__mega-menu-link">
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html" class="nav__mega-menu-link">
                                 Dresses</a></li>
                             <li class="nav__mega-menu-list-elem"><a href="../product.html"
                                                                     class="nav__mega-menu-link">
@@ -374,13 +389,22 @@ Vue.component('navigation', {
                             <li class="nav__mega-menu-list-elem"><a href="../product.html"
                                                                     class="nav__mega-menu-link">
                                 Jackets/Coats</a></li>
-                            <li class="nav__mega-menu-list-elem">
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
+                                                                    class="nav__mega-menu-link">
+                                Blazers</a></li>
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
+                                                                    class="nav__mega-menu-link">
+                                Denim</a></li>
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
+                                                                    class="nav__mega-menu-link">
+                                Leggings/Pants</a></li>
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
+                                                                    class="nav__mega-menu-link">
+                                Skirts/Shorts</a></li>
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
+                                                                    class="nav__mega-menu-link">
+                                Accessories</a></li>
                         </ul>
-
-                        <div class="nav_mega-menu-img-block">
-                            <img src=".././img/mega-menu-img.jpg" alt="super sale">
-                            <div class="nav_mega-menu-img-block-text">Super<br>sale!</div>
-                        </div>
                     </div>
                 </div>
             </li>
@@ -391,8 +415,7 @@ Vue.component('navigation', {
                         <ul class="nav__mega-menu-list">
                             <li class="nav__mega-menu-list-elem">
                                 <h4 class="nav__mega-menu-headline">woman</h4></li>
-                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
-                                                                    class="nav__mega-menu-link">
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html" class="nav__mega-menu-link">
                                 Dresses</a></li>
                             <li class="nav__mega-menu-list-elem"><a href="../product.html"
                                                                     class="nav__mega-menu-link">
@@ -424,8 +447,7 @@ Vue.component('navigation', {
                         <ul class="nav__mega-menu-list">
                             <li class="nav__mega-menu-list-elem">
                                 <h4 class="nav__mega-menu-headline">woman</h4></li>
-                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
-                                                                    class="nav__mega-menu-link">
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html" class="nav__mega-menu-link">
                                 Dresses</a></li>
                             <li class="nav__mega-menu-list-elem"><a href="../product.html"
                                                                     class="nav__mega-menu-link">
@@ -436,29 +458,28 @@ Vue.component('navigation', {
                             <li class="nav__mega-menu-list-elem"><a href="../product.html"
                                                                     class="nav__mega-menu-link">
                                 Jackets/Coats</a></li>
-                            <li class="nav__mega-menu-list-elem">
-                        </ul>
-
-                        <ul class="nav__mega-menu-list">
-                            <li class="nav__mega-menu-list-elem">
-                                <h4 class="nav__mega-menu-headline">woman</h4></li>
                             <li class="nav__mega-menu-list-elem"><a href="../product.html"
                                                                     class="nav__mega-menu-link">
-                                Dresses</a></li>
+                                Blazers</a></li>
                             <li class="nav__mega-menu-list-elem"><a href="../product.html"
                                                                     class="nav__mega-menu-link">
-                                Tops</a></li>
+                                Denim</a></li>
                             <li class="nav__mega-menu-list-elem"><a href="../product.html"
                                                                     class="nav__mega-menu-link">
-                                Sweaters/Knits</a></li>
+                                Leggings/Pants</a></li>
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
+                                                                    class="nav__mega-menu-link">
+                                Skirts/Shorts</a></li>
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
+                                                                    class="nav__mega-menu-link">
+                                Accessories</a></li>
                         </ul>
                     </div>
                     <div class="nav_mega-menu-block">
                         <ul class="nav__mega-menu-list">
                             <li class="nav__mega-menu-list-elem">
                                 <h4 class="nav__mega-menu-headline">woman</h4></li>
-                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
-                                                                    class="nav__mega-menu-link">
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html" class="nav__mega-menu-link">
                                 Dresses</a></li>
                             <li class="nav__mega-menu-list-elem"><a href="../product.html"
                                                                     class="nav__mega-menu-link">
@@ -469,13 +490,22 @@ Vue.component('navigation', {
                             <li class="nav__mega-menu-list-elem"><a href="../product.html"
                                                                     class="nav__mega-menu-link">
                                 Jackets/Coats</a></li>
-                            <li class="nav__mega-menu-list-elem">
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
+                                                                    class="nav__mega-menu-link">
+                                Blazers</a></li>
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
+                                                                    class="nav__mega-menu-link">
+                                Denim</a></li>
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
+                                                                    class="nav__mega-menu-link">
+                                Leggings/Pants</a></li>
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
+                                                                    class="nav__mega-menu-link">
+                                Skirts/Shorts</a></li>
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
+                                                                    class="nav__mega-menu-link">
+                                Accessories</a></li>
                         </ul>
-
-                        <div class="nav_mega-menu-img-block">
-                            <img src=".././img/mega-menu-img.jpg" alt="super sale">
-                            <div class="nav_mega-menu-img-block-text">Super<br>sale!</div>
-                        </div>
                     </div>
                 </div>
             </li>
@@ -486,8 +516,7 @@ Vue.component('navigation', {
                         <ul class="nav__mega-menu-list">
                             <li class="nav__mega-menu-list-elem">
                                 <h4 class="nav__mega-menu-headline">woman</h4></li>
-                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
-                                                                    class="nav__mega-menu-link">
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html" class="nav__mega-menu-link">
                                 Dresses</a></li>
                             <li class="nav__mega-menu-list-elem"><a href="../product.html"
                                                                     class="nav__mega-menu-link">
@@ -519,8 +548,7 @@ Vue.component('navigation', {
                         <ul class="nav__mega-menu-list">
                             <li class="nav__mega-menu-list-elem">
                                 <h4 class="nav__mega-menu-headline">woman</h4></li>
-                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
-                                                                    class="nav__mega-menu-link">
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html" class="nav__mega-menu-link">
                                 Dresses</a></li>
                             <li class="nav__mega-menu-list-elem"><a href="../product.html"
                                                                     class="nav__mega-menu-link">
@@ -531,29 +559,28 @@ Vue.component('navigation', {
                             <li class="nav__mega-menu-list-elem"><a href="../product.html"
                                                                     class="nav__mega-menu-link">
                                 Jackets/Coats</a></li>
-                            <li class="nav__mega-menu-list-elem">
-                        </ul>
-
-                        <ul class="nav__mega-menu-list">
-                            <li class="nav__mega-menu-list-elem">
-                                <h4 class="nav__mega-menu-headline">woman</h4></li>
                             <li class="nav__mega-menu-list-elem"><a href="../product.html"
                                                                     class="nav__mega-menu-link">
-                                Dresses</a></li>
+                                Blazers</a></li>
                             <li class="nav__mega-menu-list-elem"><a href="../product.html"
                                                                     class="nav__mega-menu-link">
-                                Tops</a></li>
+                                Denim</a></li>
                             <li class="nav__mega-menu-list-elem"><a href="../product.html"
                                                                     class="nav__mega-menu-link">
-                                Sweaters/Knits</a></li>
+                                Leggings/Pants</a></li>
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
+                                                                    class="nav__mega-menu-link">
+                                Skirts/Shorts</a></li>
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
+                                                                    class="nav__mega-menu-link">
+                                Accessories</a></li>
                         </ul>
                     </div>
                     <div class="nav_mega-menu-block">
                         <ul class="nav__mega-menu-list">
                             <li class="nav__mega-menu-list-elem">
                                 <h4 class="nav__mega-menu-headline">woman</h4></li>
-                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
-                                                                    class="nav__mega-menu-link">
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html" class="nav__mega-menu-link">
                                 Dresses</a></li>
                             <li class="nav__mega-menu-list-elem"><a href="../product.html"
                                                                     class="nav__mega-menu-link">
@@ -564,13 +591,22 @@ Vue.component('navigation', {
                             <li class="nav__mega-menu-list-elem"><a href="../product.html"
                                                                     class="nav__mega-menu-link">
                                 Jackets/Coats</a></li>
-                            <li class="nav__mega-menu-list-elem">
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
+                                                                    class="nav__mega-menu-link">
+                                Blazers</a></li>
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
+                                                                    class="nav__mega-menu-link">
+                                Denim</a></li>
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
+                                                                    class="nav__mega-menu-link">
+                                Leggings/Pants</a></li>
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
+                                                                    class="nav__mega-menu-link">
+                                Skirts/Shorts</a></li>
+                            <li class="nav__mega-menu-list-elem"><a href="../product.html"
+                                                                    class="nav__mega-menu-link">
+                                Accessories</a></li>
                         </ul>
-
-                        <div class="nav_mega-menu-img-block">
-                            <img src=".././img/mega-menu-img.jpg" alt="super sale">
-                            <div class="nav_mega-menu-img-block-text">Super<br>sale!</div>
-                        </div>
                     </div>
                 </div>
             </li>
